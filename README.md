@@ -1,1 +1,2 @@
 # Youtube-DL-Join
+This is a utility that allows yt links to be added into the list.csv file with the needed timestamps in seconds. The program downloads then cuts and finally appends all the files into one final.mp4
